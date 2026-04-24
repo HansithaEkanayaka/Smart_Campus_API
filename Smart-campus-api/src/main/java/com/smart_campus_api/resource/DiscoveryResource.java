@@ -25,8 +25,8 @@ public class DiscoveryResource {
         metadata.put("version", "1.0.0");
         metadata.put("description", "RESTful API for managing campus rooms and IoT sensors.");
         Map<String, String> contact = new HashMap<>();
-        contact.put("name", "Smart Campus Admin");
-        contact.put("email", "admin@smartcampus.ac.uk");
+        contact.put("name", "E.A.R.H.Ekanayaka");
+        contact.put("email", "w2120662@westminster.ac.uk");
         contact.put("module", "5COSC022W Client-Server Architectures");
         metadata.put("contact", contact);
 
